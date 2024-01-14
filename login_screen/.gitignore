@@ -1,0 +1,82 @@
+# Dart
+*.dart
+*.iml
+*.g.dart
+*.gr.dart
+*.br.dart
+.dart_tool/
+.dart_plugins/
+/build/
+
+# Flutter/Dart dependencies
+.dart_pub/
+.pub/
+packages/
+.pub-cache/
+.pub/bin/
+.pub/asset/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-local
+
+# Android
+/build/
+.gradle/
+/local.properties
+/.idea/
+
+# iOS
+Pods/
+/build/
+/ios/Pods/
+/ios/Podfile.lock
+/ios/Runner.xcworkspace/
+
+# macOS
+.DS_Store
+/ios/Flutter/Flutter.xcconfig
+
+# Web
+/web/build/
+/web/.dart_tool/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Android Studio
+.idea/
+*.iml
+
+# Xcode
+*.xcworkspace/
+*.xcuserdatad/
+*.xcproj/
+
+# Logs
+*.log
+
+# Flutter build artifact
+*.tar
+*.tgz
+*.zip
+*.apk
+*.ipa
+
+# Android Studio
+*.iml
+.idea/
+
+# macOS
+.DS_Store
+
+# Flutter Intellij/IDEA plugin
+.idea/
+
+# Flutter Windows
+/flutter_assets/
+/build/
+
+# Flutter test
+.dart_tool/
+.test/
